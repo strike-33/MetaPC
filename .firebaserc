@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "red-de-egresados": {
+      "hosting": {
+        "Red-De-Egresados": [
+          "red-de-egresados"
+        ]
+      }
+    }
+  }
+}
